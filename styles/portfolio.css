@@ -12,6 +12,11 @@
     color: #FD6E0A;;
 }
 
+.profile-photo{
+    width: 700px;
+    height: 700px;
+}
+
 .btn-primary{
     height: 64px;
     border-radius: 5px;
