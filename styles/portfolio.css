@@ -28,6 +28,7 @@ nav{
     display: flex;
     justify-content: space-between;
     margin:50px 200px;
+    padding: 20px;
 }
 nav ul{
     display: flex;
@@ -101,6 +102,7 @@ main{
  color: #181818;
  font-weight:700;
  font-size: 35px;
+ margin: 100px 0;
 }
 
 .section-description{
@@ -238,4 +240,5 @@ margin-bottom: 30px;
 
 .contact a{
     text-decoration: none;
+    padding: 10px;
 }
